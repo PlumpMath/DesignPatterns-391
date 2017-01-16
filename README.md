@@ -19,7 +19,7 @@ Currently implemented patterns:
 # Decorator
 **The Decorator pattern** attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative of subclassing for extending functionality.
 
-[![Observer.png](https://s23.postimg.org/hdx8zpnqz/Observer.png)](https://postimg.org/image/n23jqls3b/)
+[![decor.png](https://s28.postimg.org/a5w082v25/decor.png)](https://postimg.org/image/3s6x4tq61/)
 
 
 
