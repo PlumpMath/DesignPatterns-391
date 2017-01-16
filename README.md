@@ -16,6 +16,12 @@ Currently implemented patterns:
 [![Observer.png](https://s29.postimg.org/r8middos7/Observer.png)](https://postimg.org/image/u2pnqtqyb/)
 
 
+# Decorator
+**The Decorator pattern** attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative of subclassing for extending functionality.
+
+[![Observer.png](https://s23.postimg.org/hdx8zpnqz/Observer.png)](https://postimg.org/image/n23jqls3b/)
+
+
 
 
 
