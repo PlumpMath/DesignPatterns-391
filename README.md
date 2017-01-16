@@ -22,7 +22,10 @@ Currently implemented patterns:
 [![decor.png](https://s28.postimg.org/a5w082v25/decor.png)](https://postimg.org/image/3s6x4tq61/)
 
 
+# Factory
+**The Factory pattern** defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
+[![factory.png](https://s23.postimg.org/e2vrd4sfv/factory.png)](https://postimg.org/image/uqn9fmn7b/)
 
 
 ## Pictures and ideas are taken from 
