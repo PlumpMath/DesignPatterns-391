@@ -34,6 +34,12 @@ Currently implemented patterns:
 [![abstractFactory.png](https://s29.postimg.org/ubom8arvr/abstract_Factory.png)](https://postimg.org/image/clmxn9ear/)
 
 
+# Singleton
+**The Singleton pattern** ensures a class has only one instance, and provides a global point of access to it.
+
+[![Singleton.png](https://s27.postimg.org/3zla576zn/Singleton.png)](https://postimg.org/image/4ccobdp9b/)
+
+
 ## Pictures and ideas are taken from 
 **O'Reilly Media**
 **Head First Design Patterns**
