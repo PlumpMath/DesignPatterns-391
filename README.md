@@ -40,8 +40,14 @@ Currently implemented patterns:
 [![Singleton.png](https://s27.postimg.org/3zla576zn/Singleton.png)](https://postimg.org/image/4ccobdp9b/)
 
 
+# Command
+**The Command pattern** encapsulates a request as an object, thereby letting you parametrize other objects with different requests, queue or log requests, and support undoable operations.
+
+[![Command.png](https://s24.postimg.org/jr5zzrxut/Command.png)](https://postimg.org/image/cny4k5sf5/)
+
+
 ## Pictures and ideas are taken from 
 **O'Reilly Media**
 **Head First Design Patterns**
 **A Brain-Friendly Guide**
-_If you like their work - try buying one of their books_**
+_If you like their work - try buying one of their books_
