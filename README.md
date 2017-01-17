@@ -28,6 +28,12 @@ Currently implemented patterns:
 [![factory.png](https://s23.postimg.org/e2vrd4sfv/factory.png)](https://postimg.org/image/uqn9fmn7b/)
 
 
+# Abstract Factory
+**The Abstract Factory pattern** provides an interface for creating families of related or dependant objects without specifying their concrete classes.
+
+[![abstractFactory.png](https://s29.postimg.org/ubom8arvr/abstract_Factory.png)](https://postimg.org/image/clmxn9ear/)
+
+
 ## Pictures and ideas are taken from 
 **O'Reilly Media**
 **Head First Design Patterns**
