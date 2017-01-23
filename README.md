@@ -46,6 +46,13 @@ Currently implemented patterns:
 [![Command.png](https://s24.postimg.org/jr5zzrxut/Command.png)](https://postimg.org/image/cny4k5sf5/)
 
 
+
+# Adapter
+**The Adapter pattern** converts the interface of a class into another interface the client expect. Adapter lets classes work together that couldn't otherwise because of inconpatible interfaces.
+
+[![adapter.png](https://s30.postimg.org/m0d2vt9ld/adapter.png)](https://postimg.org/image/hr8ctn6bx/)
+
+
 ## Pictures and ideas are taken from 
 **O'Reilly Media**
 **Head First Design Patterns**
