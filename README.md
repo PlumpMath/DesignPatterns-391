@@ -57,6 +57,12 @@ Currently implemented patterns:
 
 [![Facade.png](https://s28.postimg.org/w3ra1obql/Facade.png)](https://postimg.org/image/4t5ytr8tl/)
 
+
+# Template
+**The Template pattern** defines the skeleton of an algorithm in a method, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
+
+[![Template.png](https://s29.postimg.org/42up4j27r/Template.png)](https://postimg.org/image/4fm3apkhf/)
+
 ## Pictures and ideas are taken from 
 **O'Reilly Media**
 **Head First Design Patterns**
