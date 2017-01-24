@@ -63,6 +63,12 @@ Currently implemented patterns:
 
 [![Template.png](https://s29.postimg.org/42up4j27r/Template.png)](https://postimg.org/image/4fm3apkhf/)
 
+# Iterator
+**The Iterator pattern** provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+
+[![Iterator.png](https://s27.postimg.org/pwyjhu283/Iterator.png)](https://postimg.org/image/sr1ova4e7/)
+
+
 ## Pictures and ideas are taken from 
 **O'Reilly Media**
 **Head First Design Patterns**
