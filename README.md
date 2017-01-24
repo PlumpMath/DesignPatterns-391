@@ -69,6 +69,12 @@ Currently implemented patterns:
 [![Iterator.png](https://s27.postimg.org/pwyjhu283/Iterator.png)](https://postimg.org/image/sr1ova4e7/)
 
 
+# Composite
+**The Composite pattern** allows you to compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
+
+[![Composite.png](https://s24.postimg.org/7vs8bbdbp/Composite.png)](https://postimg.org/image/x1t6i5elt/)
+
+
 ## Pictures and ideas are taken from 
 **O'Reilly Media**
 **Head First Design Patterns**
