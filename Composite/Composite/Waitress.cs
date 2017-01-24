@@ -25,5 +25,18 @@ namespace Composite
         {
             _allMenus.Add(component);
         }
+
+        public void ListVegetarianMenu()
+        {
+            IIterator iterator = _allMenus.GetIterator();
+            while (iterator.HasNext())
+            {
+                MenuComponent component = iterator.GetNext();
+                if (component.IsLeaf() && component.IsVegetarian())
+                {
+                    component.Print();
+                }
+            }
+        }
     }
 }

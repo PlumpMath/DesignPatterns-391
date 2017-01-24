@@ -47,5 +47,10 @@ namespace Composite.MenuItems
         {
             throw new NotSupportedException();
         }
+
+        public virtual bool IsLeaf()
+        {
+            return true;
+        }
     }
 }

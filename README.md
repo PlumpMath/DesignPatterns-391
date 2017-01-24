@@ -75,6 +75,12 @@ Currently implemented patterns:
 [![Composite.png](https://s24.postimg.org/7vs8bbdbp/Composite.png)](https://postimg.org/image/x1t6i5elt/)
 
 
+# State
+**The State pattern** allows an object to alter its behaviour when its internal state changes. The object will appear to change its class.
+
+[![State.png](https://s30.postimg.org/bd6tk19zl/State.png)](https://postimg.org/image/pjmkf9kul/)
+
+
 ## Pictures and ideas are taken from 
 **O'Reilly Media**
 **Head First Design Patterns**

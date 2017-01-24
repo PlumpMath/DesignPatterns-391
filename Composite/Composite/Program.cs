@@ -29,7 +29,8 @@ namespace Composite
             allMenus.Add(breakfastMenu);
 
             Waitress waitress = new Waitress(allMenus);
-            waitress.ListMenus();
+            waitress.ListVegetarianMenu();
+
         }
     }
 }

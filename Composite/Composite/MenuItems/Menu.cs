@@ -58,5 +58,10 @@ namespace Composite.MenuItems
         {
             return new MenuComponentIterator(_components);
         }
+
+        public override bool IsLeaf()
+        {
+            return false;
+        }
     }
 }
